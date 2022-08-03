@@ -1,6 +1,2 @@
 # dependencies
 /node_modules
-
-# JSON Files
-package-lock.json
-package.json
